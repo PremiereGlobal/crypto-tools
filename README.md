@@ -1,6 +1,6 @@
 # Crypt Tools
 This repository houses the manifest for a Docker image for encryption
-<!--
+
 ## Encrypt with Keybase
 
 ```
@@ -10,7 +10,6 @@ or
 ```
 keybase pgp encrypt username --no-self -i ./file.txt
 ```
--->
 
 ## Encrypt with GPG
 ```
